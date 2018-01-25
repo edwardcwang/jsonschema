@@ -4,4 +4,6 @@ _cache
 _static
 _templates
 
+__pycache__
+
 TODO
